@@ -1,6 +1,6 @@
 # Proyecto de libreria
 
-Libreria creada con una api publica donde podras hacer consultas directamente ala api y guardar sus datos dentro unabase de datos MYSQL donnde podras obtenerdatosya en tu propia base de datos.
+Libreria creada con una api publica donde podras hacer consultas directamente ala api y guardar sus datos dentro una base de datos MYSQL donde podras obtener datosya en tu propia base de datos.
 
 
 ## Documentation
